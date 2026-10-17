@@ -2,4 +2,4 @@
 <img width="4368" height="668" alt="image" src="https://github.com/user-attachments/assets/276d6966-361b-4b15-88da-d1b4f8934126" />
 
 
-<p align="center"> $\color{#c7f3f3}{\textsf{ ,, Sleep for a total of eight hundred hours per day '' }}$
+<p align="center"> $\color{#86bada}{\textsf{ ,, Sleep for a total of eight hundred hours per day '' }}$
