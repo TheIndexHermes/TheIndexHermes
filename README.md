@@ -7,4 +7,3 @@
 <p align="center"> $\color{#86bada}{\textsf{ ,, Only eat, or write'' }}$
 <p align="center"> $\color{#86bada}{\textsf{ ,, Or pull the trigger with your right hand '' }}$
 
-<p align="center"> https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FTheIndexHermes&label=prescripts&icon=flower1&color=%236ea8fe&message=&style=plastic&tz=localtime
