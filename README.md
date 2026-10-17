@@ -7,3 +7,13 @@
 <p align="center"> $\color{#86bada}{\textsf{ ,, Only eat, or write'' }}$
 <p align="center"> $\color{#86bada}{\textsf{ ,, Or pull the trigger with your right hand '' }}$
 
+<div align="center"> 
+  <details> 
+  <summary> ꫂ❁ Would you like to see what your precript says ?</summary> 
+    ·༻❀༺·
+    <p>$\color{#f3f1eb}{\textsf{Open to C + H always, even if I don't have it in my name !}}$</p>
+    <p>$\color{#f3f1eb}{\textsf{Refrain from talking to me in public chat, use whisper ,,}}$</p>
+    <p>$\color{#f3f1eb}{\textsf{This is because I'm often offtab and might miss your messages ,,}}$</p>
+    ·༻❀༺·
+</details>
+</div>
