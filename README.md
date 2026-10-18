@@ -1,11 +1,8 @@
 ### <p align="center"> [STRAWPAGE](https://groxiro.straw.page)   |   [ATA](https://somniro.atabook.org) 
 <img width="4368" height="668" alt="image" src="https://github.com/user-attachments/assets/276d6966-361b-4b15-88da-d1b4f8934126" />
 
-<p align="center"> $\color{#86bada}{\textsf{ ,, Sleep for a total of eight hundred hours per day '' }}$
-<p align="center"> $\color{#86bada}{\textsf{ ,, And then drink a liter of milk '' }}$
-<p align="center"> $\color{#86bada}{\textsf{ ,, Warm-up before you go play '' }}$
-<p align="center"> $\color{#86bada}{\textsf{ ,, Only eat, or write'' }}$
-<p align="center"> $\color{#86bada}{\textsf{ ,, Or pull the trigger with your right hand '' }}$
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Asap+Sharp&weight=200&size=16&letterSpacing=-1px&duration=2000&pause=1998&color=86BADA&center=true&vCenter=true&width=440&height=60&lines=Sleep+for+a+total+of+eight+hundred+hours+per+day;And+then+drink+a+liter+of+milk;Warm-up+before+you+go+play;Only+eat%2C+or+write;Or+pull+the+trigger+with+your+right+hand" alt="Typing SVG" /></a>
 
 <div align="center"> 
   <details> 
