@@ -14,3 +14,5 @@
     ·༻❀༺·
 </details>
 </div>
+
+<p align="center"> <img width="198" height="101" alt="image" src="https://github.com/user-attachments/assets/aaf27b2e-cf50-4e7e-974f-0cc8b759e4af" />
